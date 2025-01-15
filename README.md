@@ -23,8 +23,8 @@ src/
 
 ## Setup
 ```bash
-git clone https://github.com/yourusername/VoiceCog.git
-cd VoiceCog
+git clone https://github.com/kubekj/CogniTrack.git
+cd CogniTrack
 pip install -r requirements.txt
 ```
 
